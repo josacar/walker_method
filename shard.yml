@@ -1,10 +1,8 @@
 name: walker_method
-version: 0.1.0
+version: 0.1.1
 
 authors:
   - Jose Luis Salas <josacar@gmail.com>
-
-license: MIT
 
 targets:
   walker_method:
@@ -12,7 +10,7 @@ targets:
 
 license: MIT
 
-crystal: 0.34.0
+crystal: 0.35.0
 
 description: |
   Selects elements from an array given a weighted distribution.
